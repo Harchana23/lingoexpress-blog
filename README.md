@@ -191,7 +191,7 @@ LingoExpress-Blog/
 
 ## Ownership
 
-Internal **CyberG7 / LingoExpress** project — built and maintained by [@Cyberg7tech](https://github.com/Cyberg7tech).
+Internal **CyberG7 / LingoExpress** project — built and maintained by [@CyberG7-org](https://github.com/CyberG7-org).
 All rights reserved. Not open for external contributions; issues and questions welcome.
 
 
